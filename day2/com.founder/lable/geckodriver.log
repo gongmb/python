@@ -1,0 +1,27 @@
+1516012656177	geckodriver	INFO	geckodriver 0.19.1
+1516012656181	geckodriver	INFO	Listening on 127.0.0.1:60292
+1516012659238	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\MozillaFirefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\gongmb\\AppData\\Local\\Temp\\rust_mozprofile.cCRK4NHqd6I8"
+1516012660120	Marionette	INFO	Enabled via --marionette
+[Parent 15320, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1516012661450	Marionette	INFO	Listening on port 60398
+1516012661745	Marionette	WARN	TLS certificate errors will be ignored for this session
+1516012661793	Marionette	DEBUG	Register listener.js for window 4294967297
+1516012661805	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1516012661814	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1516012661814	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1516012661815	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967297"
+[Child 10852, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 10852, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1516012662160	Marionette	DEBUG	Register listener.js for window 8589934593
+1516012662202	Marionette	DEBUG	Check readyState "uninitialized for "about:blank"
+JavaScript error: http://netdna.bootstrapcdn.com/twitter-bootstrap/2.3.2/js/bootstrap.min.js, line 7: TypeError: a is not a function
+1516012665436	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "file:///D:/python/study/day2/com.founder/lable/checkbox.html"
+1516012683248	Marionette	DEBUG	Received DOM event "pageshow" for "file:///D:/python/study/day2/com.founder/lable/checkbox.html"
+1516012697337	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1516012698566	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1516012699786	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+"
+1516008495078	Marionette	DEBUG	Received DOM event "pageshow" for "file:///D:/python/study/day2/com.founder/lable/checkbox.html"
+1516008544606	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1516008550822	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1516008552310	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
