@@ -1,0 +1,65 @@
+1516002734451	geckodriver	INFO	geckodriver 0.19.1
+1516002734456	geckodriver	INFO	Listening on 127.0.0.1:57145
+1516002737490	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\MozillaFirefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\gongmb\\AppData\\Local\\Temp\\rust_mozprofile.5xgWoiF4NGBb"
+1516002737946	Marionette	INFO	Enabled via --marionette
+1516002739009	Marionette	INFO	Listening on port 57238
+1516002739503	Marionette	WARN	TLS certificate errors will be ignored for this session
+1516002739571	Marionette	DEBUG	Register listener.js for window 4294967297
+1516002739593	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1516002739696	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1516002739696	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+JavaScript error: https://ss1.bdstatic.com/5eN1bjq8AAUYm2zgoY3K/r/www/cache/static/protocol/https/plugins/every_cookie_4644b13.js, line 4: ReferenceError: c is not defined
+1516002739848	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.baidu.com/"
+1516002739878	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.baidu.com/"
+1516002741883	Marionette	DEBUG	Received DOM event "beforeunload" for "https://www.baidu.com/"
+1516002741935	Marionette	DEBUG	Received DOM event "pagehide" for "https://www.baidu.com/"
+1516002741936	Marionette	DEBUG	Received DOM event "unload" for "https://www.baidu.com/"
+1516002742035	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.baidu.com/"
+1516002742061	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.baidu.com/"
+1516002742065	Marionette	DEBUG	Received DOM event "beforeunload" for "https://www.baidu.com/"
+1516002742240	Marionette	DEBUG	Received DOM event "pagehide" for "https://www.baidu.com/"
+1516002742241	Marionette	DEBUG	Received DOM event "unload" for "https://www.baidu.com/"
+1516002742375	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.hao123.com/"
+JavaScript error: https://cpro.baidustatic.com/cpro/ui/noexpire/js/4.0.0/adClosefeedbackUpgrade.min.js, line 1: TypeError: g is null
+JavaScript error: https://cpro.baidustatic.com/cpro/ui/noexpire/js/4.0.0/adClosefeedbackUpgrade.min.js, line 1: TypeError: g is null
+1516002743448	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.hao123.com/"
+1516002745468	Marionette	DEBUG	Received DOM event "beforeunload" for "https://www.hao123.com/"
+1516002745747	Marionette	DEBUG	Received DOM event "pagehide" for "https://www.hao123.com/"
+1516002745747	Marionette	DEBUG	Received DOM event "unload" for "https://www.hao123.com/"
+1516002745811	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967310"
+1516002745812	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967307"
+1516002745812	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967303"
+1516002745812	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967304"
+1516002745925	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.hao123.com/"
+JavaScript error: https://cpro.baidustatic.com/cpro/ui/noexpire/js/4.0.0/adClosefeedbackUpgrade.min.js, line 1: TypeError: g is null
+1516002746487	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.hao123.com/"
+1516002746498	Marionette	DEBUG	Received DOM event "beforeunload" for "https://www.hao123.com/"
+1516002746515	Marionette	DEBUG	Received DOM event "pagehide" for "https://www.hao123.com/"
+1516002746515	Marionette	DEBUG	Received DOM event "unload" for "https://www.hao123.com/"
+1516002746541	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967318"
+1516002746541	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967313"
+1516002746541	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967314"
+1516002746596	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.baidu.com/"
+1516002746612	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.baidu.com/"
+1516002748619	Marionette	DEBUG	Received DOM event "beforeunload" for "https://www.baidu.com/"
+1516002748631	Marionette	DEBUG	Received DOM event "pagehide" for "https://www.baidu.com/"
+1516002748632	Marionette	DEBUG	Received DOM event "unload" for "https://www.baidu.com/"
+1516002748640	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.hao123.com/"
+1516002748642	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.hao123.com/"
+JavaScript error: https://cpro.baidustatic.com/cpro/ui/noexpire/js/4.0.0/adClosefeedbackUpgrade.min.js, line 1: TypeError: g is null
+JavaScript error: https://cpro.baidustatic.com/cpro/ui/noexpire/js/4.0.0/adClosefeedbackUpgrade.min.js, line 1: TypeError: g is null
+1516002757782	Marionette	DEBUG	Received DOM event "beforeunload" for "https://www.hao123.com/?1516002747"
+1516002758004	Marionette	DEBUG	Received DOM event "pagehide" for "https://www.hao123.com/?1516002747"
+1516002758005	Marionette	DEBUG	Received DOM event "unload" for "https://www.hao123.com/?1516002747"
+1516002758079	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967330"
+1516002758080	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967327"
+1516002758080	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967323"
+1516002758080	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967324"
+1516002758216	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.hao123.com/?1516002747"
+1516002758732	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.hao123.com/?1516002747"
+JavaScript error: https://cpro.baidustatic.com/cpro/ui/noexpire/js/4.0.0/adClosefeedbackUpgrade.min.js, line 1: TypeError: g is null
+JavaScript error: https://cpro.baidustatic.com/cpro/ui/noexpire/js/4.0.0/adClosefeedbackUpgrade.min.js, line 1: TypeError: g is null
+[Parent 15844, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+JavaScript error: resource:///modules/FormSubmitObserver.jsm, line 223: TypeError: this._mm is null
+omium/src/chrome/common/ipc_channel_win.cc, line 346
+urce:///modules/FormSubmitObserver.jsm, line 223: TypeError: this._mm is null

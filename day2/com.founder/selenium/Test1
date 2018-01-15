@@ -1,0 +1,14 @@
+# coding=utf-8
+
+import time
+from selenium import webdriver
+
+
+# 打开浏览器
+chrome = webdriver.Chrome()
+
+chrome.get("http://www.baidu.com/")
+
+time.sleep(5)
+
+chrome.close()

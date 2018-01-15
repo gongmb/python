@@ -1,0 +1,25 @@
+1516004082641	geckodriver	INFO	geckodriver 0.19.1
+1516004082646	geckodriver	INFO	Listening on 127.0.0.1:50002
+1516004085688	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\MozillaFirefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\gongmb\\AppData\\Local\\Temp\\rust_mozprofile.qwD2YYZnCUTf"
+1516004086144	Marionette	INFO	Enabled via --marionette
+[Parent 18280, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1516004087186	Marionette	INFO	Listening on port 50139
+1516004087194	Marionette	WARN	TLS certificate errors will be ignored for this session
+1516004087245	Marionette	DEBUG	Register listener.js for window 4294967297
+1516004087272	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1516004088226	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1516004088226	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1516004089197	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://mail.163.com/"
+1516004089939	Marionette	DEBUG	Received DOM event "pageshow" for "https://mail.163.com/"
+[Child 17604, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 17464, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 17464, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+rc/chrome/common/ipc_channel_win.cc, line 346
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
