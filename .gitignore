@@ -2,4 +2,6 @@
 .idea/
 .idea/vcs.xml
 
+*.log
+
 /.project
