@@ -73,3 +73,7 @@ m.release(x,y) #释放鼠标
 + rate	浮点数	必须	结果为该分类的概率；值越高，越趋于该分类；取值为[0.00-100.00], 分值仅供参考，您只需要关注label和suggestion的取值即可
 + extras	JSON对象	可选	附加信息，比如命中了您自定义的词库,返回词库code.该值将来可能会调整，建议不要在业务上进行依赖
 + details	数组	可选	命中风险的详细信息。参见下表
+
+
+pyinstaller打包成可执行EXE
+pyinstaller.exe -c -F d:/python/study/day2/com.founder/selenium/aliyun.py
